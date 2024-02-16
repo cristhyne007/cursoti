@@ -1,0 +1,2 @@
+# cursoti
+ amo stray kids
