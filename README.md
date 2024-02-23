@@ -1,2 +1,1 @@
 # cursoti
- amo stray kids
