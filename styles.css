@@ -6,27 +6,44 @@
        padding: 0;
         }
 body{
-    background-color:lightslategray;
-    color:rgb(0, 0, 0);
-    font-size: larger;
+    background-color: beige;
+    text-align: center;
+    font-family:"Kode Mono", monospace;    
 }
+
 header{
     padding: 32px;
-    border-bottom: 1px orangered;
-    background-color: whitesmoke;
-}
-header div {
+    border-bottom:3px solid rgb(131, 35, 221);
+    background-color:plum;
     text-align: center;
 }
 header div a{
-    color: blueviolet;
-    font-size: 20px;
+    color: black;
+    font-size: 40px;
     line-height: 30px;
     margin: 0 16px;
     text-decoration:none;
     font-family: "Kode Mono", monospace;
 }
 header div a:hover{
-    color: blue;
+    color: rgb(77, 2, 137);
     transition: color 700ms;
+}
+#box{
+   text-align: center;
+   padding: 32px;
+}
+#box img{
+   border-radius: 100%;
+   border:5px solid rgb(131, 35, 221);
+   margin-bottom: 32px;
+}
+#linkstaylor a{
+    color: black;
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0 16px;
+    text-decoration: none;
+    font-family: "Kode Mono", monospace;
+
 }
